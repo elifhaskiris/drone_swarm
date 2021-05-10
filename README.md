@@ -8,6 +8,7 @@ https://dronekit-python.readthedocs.io/en/latest/develop/installation.html
 1-Start Mission Planner
 
 cd Missionplanner directory
+
 sudo mono MissionPlanner.exe
 
 2- Start Drones
